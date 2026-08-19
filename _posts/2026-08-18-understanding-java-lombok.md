@@ -18,9 +18,9 @@ tags: [books, test]
 author: Sharon Smith and Barry Simpson
 --- -->
 
-![Lombok](/assets/img/2026-08-18-understanding-java-lombok/JavaLombok.jpg){: .mx-auto.d-block :}
-
 Lombok is a Java library that helps reduce boilerplate code, by generating getters, setters, constructors and helper methods (`equals()`, `hashScode()`, `toString()`) at compile time through the use of annotations.
+
+![Lombok](/assets/img/2026-08-18-understanding-java-lombok/JavaLombok.jpg){: .mx-auto.d-block :}
 
 How it works:
 
