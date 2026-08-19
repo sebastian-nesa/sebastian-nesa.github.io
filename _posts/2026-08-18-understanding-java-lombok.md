@@ -1,13 +1,10 @@
 ---
 layout: post
 title: Understanding Java Lombok
-$ gh-repo: daattali/beautiful-jekyll
-# gh-badge: [star, fork, follow]
-# cover-img: /assets/img/2026-08-18-understanding-java-lombok/JavaLombok.jpg
 thumbnail-img: /assets/img/2026-08-18-understanding-java-lombok/JavaLombok.jpg
+image: /assets/img/2026-08-18-understanding-java-lombok/JavaLombok.jpg
 tags: [Java, Lombok]
 comments: true
-author: Sebastian Miga
 ---
 
 <!-- ---
