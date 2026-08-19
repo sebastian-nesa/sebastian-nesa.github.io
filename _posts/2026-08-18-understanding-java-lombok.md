@@ -3,12 +3,12 @@ layout: post
 title: Understanding Java Lombok
 thumbnail-img: /assets/img/2026-08-18-understanding-java-lombok/JavaLombok.jpg
 image: /assets/img/2026-08-18-understanding-java-lombok/JavaLombok.jpg
+post-avatar-img: /assets/img/2026-08-18-understanding-java-lombok/JavaLombok.jpg
 tags: [Java, Lombok]
 comments: true
 ---
 
 Lombok is a Java library that helps reduce boilerplate code, by generating getters, setters, constructors and helper methods (`equals()`, `hashScode()`, `toString()`) at compile time through the use of annotations.
-
 
 How it works:
 

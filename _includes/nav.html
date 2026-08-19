@@ -51,7 +51,8 @@
     <div class="avatar-container">
       <div class="avatar-img-border">
         <a href="{{ '/' | absolute_url }}">
-          <img alt="Navigation bar avatar" class="avatar-img" src="{{ site.avatar | relative_url }}" />
+          <!-- Uses page.post-avatar-img if it exists; otherwise uses site.avatar -->
+          <img alt="Navigation bar avatar" class="avatar-img" src="{{ page.post-avatar-img | default: site.avatar | relative_url }}" />
         </a>
       </div>
     </div>
