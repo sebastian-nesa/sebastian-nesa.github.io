@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Java Mapstruct An overview
-thumbnail-img: /assets/img/2026-08-19-java-mapstruct-an-overview/JavaMapstruct.png
-image: /assets/img/2026-08-19-java-mapstruct-an-overview/JavaMapstruct.png
-post-avatar-img: /assets/img/2026-08-19-java-mapstruct-an-overview/JavaMapstruct.png
+thumbnail-img: /assets/img/2026-08-19-java-mapstruct-an-overview/JavaMapstruct.jpg
+image: /assets/img/2026-08-19-java-mapstruct-an-overview/JavaMapstruct.jpg
+post-avatar-img: /assets/img/2026-08-19-java-mapstruct-an-overview/JavaMapstruct.jpg
 tags: [Java, Mapstruct]
 comments: true
 ---
