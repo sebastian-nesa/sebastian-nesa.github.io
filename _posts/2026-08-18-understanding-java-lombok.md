@@ -195,7 +195,7 @@ There are two cases:
 
 1. Entity is in transient state:
 
-```Java
+```java
 EmployeeEntity entity = employeeMapper.toEntity(request);
     System.out.println(entity);
 ```
@@ -204,7 +204,7 @@ At this point `projects` has not been queried and has the value of null (or an e
 
 2. Entity is in managed state:
 
-```Java
+```java
 EmployeeEntity entity = employeeMapper.toEntity(request);
     EmployeeEntity savedEntity = employeeRepository.save(entity);
     System.out.println(savedEntity);
